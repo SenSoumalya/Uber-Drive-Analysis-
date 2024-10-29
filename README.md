@@ -1,7 +1,7 @@
-![0000](https://github.com/user-attachments/assets/92cae5b3-a397-43d1-875a-0cf1e8ae51b8)
+![0000](https://github.com/SenSoumalya/UberDrive-Analysis/blob/main/902.jpg)
 
 
-
+https://github.com/SenSoumalya/UberDrive-Analysis/blob/main/902.jpg
 # Uber Trip Analysis Project
 
 This project analyzes Uber trips taken by drivers using Exploratory Data Analysis (EDA) techniques. The dataset includes details on trip start and stop locations, mileage, trip purposes, and categories, enabling insights into travel patterns, popular routes, and usage trends.
