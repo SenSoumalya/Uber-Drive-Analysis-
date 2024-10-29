@@ -1,3 +1,5 @@
+![My Photo](photo.jpg)
+
 # Uber Trip Analysis Project
 
 This project analyzes Uber trips taken by drivers using Exploratory Data Analysis (EDA) techniques. The dataset includes details on trip start and stop locations, mileage, trip purposes, and categories, enabling insights into travel patterns, popular routes, and usage trends.
