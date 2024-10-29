@@ -1,5 +1,4 @@
-![0000](https://github.com/SenSoumalya/UberDrive-Analysis/blob/main/902.jpg)
-
+![0000](https://github.com/SenSoumalya/UberDrive-Analysis/blob/main/UBER.png)
 
 
 # Uber Trip Analysis Project
