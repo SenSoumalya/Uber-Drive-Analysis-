@@ -1,8 +1,8 @@
 ![0000](https://github.com/SenSoumalya/UberDrive-Analysis/blob/main/900.jpg)
 
 
-# Uber Trip Analysis Project
-
+# Uber Trip Analysis 
+## Course: Python for Data Science
 This project analyzes Uber trips taken by drivers using Exploratory Data Analysis (EDA) techniques. The dataset includes details on trip start and stop locations, mileage, trip purposes, and categories, enabling insights into travel patterns, popular routes, and usage trends.
 
 ## Project Overview
