@@ -2,8 +2,9 @@
 
 
 # Uber Drive Analysis 
-## Course: Python for Data Science
 This project analyzes Uber trips taken by drivers using Exploratory Data Analysis (EDA) techniques. The dataset includes details on trip start and stop locations, mileage, trip purposes, and categories, enabling insights into travel patterns, popular routes, and usage trends.
+## Course: Python for Data Science
+
 
 ## Project Overview
 This analysis was completed as part of a Data Analysis course to practice data manipulation and visualization using Python. The project addresses various aspects of Uber trips, including:
